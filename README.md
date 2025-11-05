@@ -24,7 +24,7 @@ My work bridges **governance, risk, and technology**, helping organizations stre
 ![SAPGRC](https://img.shields.io/badge/Tool-SAP%20GRC-orange)
 ![VAPT](https://img.shields.io/badge/Practice-VAPT-red)
 ![AI Security](https://img.shields.io/badge/Focus-AI%20Security%20%26%20Governance-purple)
-
+![CharteredManager](https://img.shields.io/badge/Designation-Chartered%20Manager-gold)
 
 ---
 
