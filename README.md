@@ -19,9 +19,12 @@ My work bridges **governance, risk, and technology**, helping organizations stre
 ![CISA](https://img.shields.io/badge/Certification-CISA-blue)
 ![ISO27001](https://img.shields.io/badge/Framework-ISO%2027001%3A2022-green)
 ![ISO31000](https://img.shields.io/badge/Standard-ISO%2031000-yellow)
+![ISO42001](https://img.shields.io/badge/Framework-ISO%2042001%3A2023-lightgrey)
+![GoogleCybersecurity](https://img.shields.io/badge/Certification-Google%20Cybersecurity%20Professional-blueviolet)
 ![SAPGRC](https://img.shields.io/badge/Tool-SAP%20GRC-orange)
 ![VAPT](https://img.shields.io/badge/Practice-VAPT-red)
 ![AI Security](https://img.shields.io/badge/Focus-AI%20Security%20%26%20Governance-purple)
+
 
 ---
 
