@@ -33,7 +33,8 @@ My work bridges **governance, risk, and technology**, helping organizations stre
 - 🛡️ [Vulnerability Assessment Reports](https://github.com/michaelattoh/vulnerability-assessment-reports)  
 - 📜 [Information Security Policies](https://github.com/michaelattoh/information-security-policies)  
 - 📈 [Cybersecurity Awareness Training](https://github.com/michaelattoh/cybersecurity-awareness-training)  
-- 💍 [Wedding Basket](https://github.com/michaelattoh/wms-backend) — A wedding event management and guest coordination web app built with React.js, Node.js, and MySQL.  
+- 💍 [Wedding Basket](https://github.com/michaelattoh/wms-backend) — A wedding event management and guest coordination web app built with React.js, Node.js, and MySQL.
+- [Mentisra Health & Care](https://github.com/michaelattoh/mentisra-care) - AI-enabled Digital Mental Wellbeing Platform
 ---
 
 ## 📫 Connect with Me  
